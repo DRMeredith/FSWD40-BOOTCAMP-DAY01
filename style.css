@@ -1,0 +1,23 @@
+#first {
+	background-color: red;
+	padding: 2em;
+	margin: 10px;
+}
+
+#second {
+	background-color: yellow;
+	padding: 2em;
+	margin: 10px;
+}
+
+#third {
+	background-color: grey;
+	padding: 2em;
+	margin: 10px;
+}
+
+div[class*="col"] {
+    background: white;
+    padding: 2em;
+}
+

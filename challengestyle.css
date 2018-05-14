@@ -1,0 +1,38 @@
+
+
+#topTitle {
+	background-color: red;
+	color: white;
+	padding: 20px;
+	margin-bottom: 10px
+}
+
+div[class*="col"] {
+    height: 100px;
+    background-color: grey;
+}
+
+.container {
+	background-color: grey;
+}
+
+#trend {
+	padding: 2em;
+}
+
+#mus {
+	padding: 2em;
+}
+
+#funny {
+	padding: 2em;
+}
+
+.vid {
+	padding: 5px;
+	background: lightpink;
+	height: 100px;
+	margin-top: 0.6em;
+}
+
+
